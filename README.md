@@ -1,4 +1,4 @@
-# babel-plugin-env-imports
+# babel-plugin-env-imports (highly unstable)
 
 A babel plugin for environment specific file imports. Kind of like [React Native's platform specific imports](https://reactnative.dev/docs/platform-specific-code#platform-specific-extensions).
 
