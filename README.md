@@ -25,4 +25,4 @@ module.exports = {
 
 ## Example
 
-TODO
+[See here](https://github.com/jxom/babel-plugin-env-imports/tree/master/example)
