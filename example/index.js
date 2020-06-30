@@ -1,5 +1,3 @@
-import module from './module.js';
-
-console.log(module);
+import module from './module';
 
 export default module;
