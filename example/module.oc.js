@@ -1,1 +1,1 @@
-export default 'baz';
+export default 'oceania';
